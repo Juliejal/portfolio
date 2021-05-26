@@ -67,7 +67,7 @@ body {
   background-repeat: no-repeat;
   height: 350px;
   width: 100%;
-  background-image: url(images/stol.jpg);
+  background-image: url(images/katalog.jpg);
 }
 
 .portfolio-img-background2 {
@@ -176,7 +176,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
   height: 100%;
   text-align: center;
   padding-left: 100px;
@@ -194,7 +193,7 @@ body {
 }
 
 .img-text-wrapper:hover .subtitle {
-  color: orange;
+  color: lightseagreen;
   font-weight: 600;
 }
 
@@ -217,5 +216,5 @@ body {
 }
 
 .profile-content-wrapper h1 {
-  color: blue;
+  color: lightseagreen;
 }
