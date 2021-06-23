@@ -54,7 +54,7 @@ body {
   color: black;
 }
 
-/* home page */
+/* home page og grids */
 
 .portfolio-items-wrapper {
   display: grid;
@@ -74,13 +74,17 @@ body {
   background-image: url(images/katalog.jpg);
 }
 
+.about-me-text {
+  line-height: 25px;
+}
+
 .portfolio-img-background2 {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   height: 350px;
   width: 100%;
-  background-image: url(images/festen.jpg);
+  background-image: url(images/WM.jpg);
 }
 
 .portfolio-img-background3 {
@@ -89,7 +93,7 @@ body {
   background-repeat: no-repeat;
   height: 350px;
   width: 100%;
-  background-image: url(images/mig.jpg);
+  background-image: url(images/migg.jpg);
 }
 
 .portfolio-img-background4 {
@@ -98,7 +102,7 @@ body {
   background-repeat: no-repeat;
   height: 350px;
   width: 100%;
-  background-image: url(images/parfume.jpg);
+  background-image: url(images/brødet.jpg);
 }
 
 .portfolio-img-background5 {
@@ -107,7 +111,7 @@ body {
   background-repeat: no-repeat;
   height: 350px;
   width: 100%;
-  background-image: url(images/portfolio5.jpg);
+  background-image: url(images/dame.jpg);
 }
 
 .portfolio-img-background6 {
@@ -116,7 +120,7 @@ body {
   background-repeat: no-repeat;
   height: 350px;
   width: 100%;
-  background-image: url(images/stol.jpg);
+  background-image: url(images/hand.jpg);
 }
 
 .portfolio-img-background7 {
@@ -125,7 +129,7 @@ body {
   background-repeat: no-repeat;
   height: 350px;
   width: 100%;
-  background-image: url(images/sofa.jpg);
+  background-image: url(images/sko.jpg);
 }
 
 .portfolio-img-background8 {
@@ -134,7 +138,7 @@ body {
   background-repeat: no-repeat;
   height: 350px;
   width: 100%;
-  background-image: url(images/hal.jpg);
+  background-image: url(images/mig.jpg);
 }
 
 .portfolio-img-background9 {
@@ -143,36 +147,8 @@ body {
   background-repeat: no-repeat;
   height: 350px;
   width: 100%;
-  background-image: url(images/ovn.jpg);
+  background-image: url(images/123festi.jpg);
 }
-
-.portfolio-img-background10 {
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 350px;
-  width: 100%;
-  background-image: url(images/dameogovn.jpg);
-}
-
-.portfolio-img-background11 {
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 350px;
-  width: 100%;
-  background-image: url(images/hal.jpg);
-}
-
-.portfolio-img-background12 {
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 350px;
-  width: 100%;
-  background-image: url(images/hal.jpg);
-}
-
 
 .img-text-wrapper {
   position: absolute;
@@ -193,7 +169,7 @@ body {
 
 .image-blur {
   transition: 1s;
-  filter: brightness(10%);
+  filter:(10%);
 }
 
 .img-text-wrapper:hover .subtitle {
@@ -225,12 +201,16 @@ body {
   color: lightseagreen;
 }
 
+
+.profile-image-wrapper2 img {
+  width: 100%;
+}
 /* contact page */
 
 *{
   margin: 0;
   padding: 0;
-  font-family: "montserrat",sans-serif;
+  font-family: "Lato",sans-serif;
 }
 .contact-section{
   background: url(bg.png) no-repeat center;
@@ -241,6 +221,12 @@ body {
   text-align: center;
   color: #004AAD;
 }
+
+.contact-wrapper{
+  margin-left: 400px;
+}
+
+
 .border{
   width: 100px;
   height: 10px;
@@ -293,5 +279,13 @@ textarea.contact-form-text{
   transition: 0.5s;
 }
 .contact-form-btn:hover{
-  background: #B4CEFF;
+  background: #004AAD;
+}
+
+/*footer*/
+footer{
+background: lightseagreen;
+height: 50px;
+width: 100%;
+color: white;
 }
