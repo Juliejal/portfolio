@@ -138,7 +138,7 @@ body {
   background-repeat: no-repeat;
   height: 350px;
   width: 100%;
-  background-image: url(images/mig.jpg);
+  background-image: url(images/pige.jpg);
 }
 
 .portfolio-img-background9 {
@@ -363,7 +363,7 @@ body {
             }
 
             /* under side projekt8 */
-              .two-column-wrapper7 {
+              .two-column-wrapper8 {
                 display: grid;
                 grid-template-columns: 1fr 1fr;
               }
@@ -384,7 +384,27 @@ body {
                 width: 100%;
               }
 
+              /* under side projekt9 */
+                .two-column-wrapper9 {
+                  display: grid;
+                  grid-template-columns: 1fr 1fr;
+                }
 
+                .profile-image-wrapper9 img {
+                  width: 100%;
+                }
+
+                .profile-content-wrapper9 {
+                  padding: 60px;
+                }
+
+                .profile-content-wrapper9 h1 {
+                  color: lightseagreen;
+                }
+
+                .profile-image-wrapper9 img {
+                  width: 100%;
+                }
 
 
 
