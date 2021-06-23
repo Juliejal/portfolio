@@ -221,12 +221,56 @@ body {
 }
 
 .profile-content-wrapper1 h1 {
-  color: green;
+  color: lightseagreen;
 }
-
 
 .profile-image-wrapper1 img {
   width: 100%;
+}
+
+
+
+/* under side projekt2 */
+  .two-column-wrapper2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+
+  .profile-image-wrapper2 img {
+    width: 100%;
+  }
+
+  .profile-content-wrapper2 {
+    padding: 60px;
+  }
+
+  .profile-content-wrapper2 h1 {
+    color: lightseagreen;
+  }
+
+  .profile-image-wrapper2 img {
+    width: 100%;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
