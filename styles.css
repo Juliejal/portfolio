@@ -252,7 +252,27 @@ body {
     width: 100%;
   }
 
+  /* under side projekt3 */
+    .two-column-wrapper3 {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
 
+    .profile-image-wrapper3 img {
+      width: 100%;
+    }
+
+    .profile-content-wrapper2 {
+      padding: 60px;
+    }
+
+    .profile-content-wrapper2 h1 {
+      color: lightseagreen;
+    }
+
+    .profile-image-wrapper2 img {
+      width: 100%;
+    }
 
 
 
