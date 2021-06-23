@@ -318,9 +318,49 @@ body {
           width: 100%;
         }
 
+        /* under side projekt6 */
+          .two-column-wrapper6 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+          }
 
+          .profile-image-wrapper6 img {
+            width: 100%;
+          }
 
+          .profile-content-wrapper6 {
+            padding: 60px;
+          }
 
+          .profile-content-wrapper6 h1 {
+            color: lightseagreen;
+          }
+
+          .profile-image-wrapper6 img {
+            width: 100%;
+          }
+
+          /* under side projekt7 */
+            .two-column-wrapper7 {
+              display: grid;
+              grid-template-columns: 1fr 1fr;
+            }
+
+            .profile-image-wrapper7 img {
+              width: 100%;
+            }
+
+            .profile-content-wrapper7 {
+              padding: 60px;
+            }
+
+            .profile-content-wrapper7 h1 {
+              color: lightseagreen;
+            }
+
+            .profile-image-wrapper7 img {
+              width: 100%;
+            }
 
 
 
