@@ -362,7 +362,27 @@ body {
               width: 100%;
             }
 
+            /* under side projekt8 */
+              .two-column-wrapper7 {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+              }
 
+              .profile-image-wrapper8 img {
+                width: 100%;
+              }
+
+              .profile-content-wrapper8 {
+                padding: 60px;
+              }
+
+              .profile-content-wrapper8 h1 {
+                color: lightseagreen;
+              }
+
+              .profile-image-wrapper8 img {
+                width: 100%;
+              }
 
 
 
