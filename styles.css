@@ -274,7 +274,27 @@ body {
       width: 100%;
     }
 
+    /* under side projekt4 */
+      .two-column-wrapper4 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+      }
 
+      .profile-image-wrapper4 img {
+        width: 100%;
+      }
+
+      .profile-content-wrapper4 {
+        padding: 60px;
+      }
+
+      .profile-content-wrapper4 h1 {
+        color: lightseagreen;
+      }
+
+      .profile-image-wrapper4 img {
+        width: 100%;
+      }
 
 
 
