@@ -255,22 +255,22 @@ body {
   /* under side projekt3 */
     .two-column-wrapper3 {
       display: grid;
-      grid-template-columns: 1fr 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
     }
 
     .profile-image-wrapper3 img {
       width: 100%;
     }
 
-    .profile-content-wrapper2 {
+    .profile-content-wrapper3 {
       padding: 60px;
     }
 
-    .profile-content-wrapper2 h1 {
+    .profile-content-wrapper3 h1 {
       color: lightseagreen;
     }
 
-    .profile-image-wrapper2 img {
+    .profile-image-wrapper3 img {
       width: 100%;
     }
 
