@@ -74,9 +74,7 @@ body {
   background-image: url(images/katalog.jpg);
 }
 
-.about-me-text {
-  line-height: 25px;
-}
+
 
 .portfolio-img-background2 {
   background-size: cover;
@@ -93,7 +91,7 @@ body {
   background-repeat: no-repeat;
   height: 350px;
   width: 100%;
-  background-image: url(images/migg.jpg);
+  background-image: url(images/dåse.jpg);
 }
 
 .portfolio-img-background4 {
@@ -147,7 +145,7 @@ body {
   background-repeat: no-repeat;
   height: 350px;
   width: 100%;
-  background-image: url(images/123festi.jpg);
+  background-image: url(images/mig.jpg);
 }
 
 .img-text-wrapper {
@@ -402,7 +400,7 @@ body {
                   color: lightseagreen;
                 }
 
-                .profile-image-wrapper9 img {
+                .profile-image-wrapper9  img {
                   width: 100%;
                 }
 
